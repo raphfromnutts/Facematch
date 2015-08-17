@@ -35,4 +35,4 @@ Nouveau nom et logo
 
 <b>• Sinon vous pouvez aussi donner vos idées de nom pour FaceMatch ci-dessous, sous cette forme (#nom (idée de #nom) --> #mettre votre nom après la flèche si vous êtes d'accord) :</b>
 
-DuelLook (idée de Raph) --> Raph/Sam
+<b>DuelLook</b> (idée de Raph) --> Raph/Sam

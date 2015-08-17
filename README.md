@@ -12,7 +12,7 @@
 02/09/15 à 00h00
 
 
-<b>• Liste des choses à faire ou à corriger, merci de l'écrire ci-dessous de façon plus ou moins détaillée (pensez bien à enlever ce qui est fait et si vous voulez proposer une nouvelle idée de projet parallèle au site mettez le entre []) :</b>
+<b>• Liste des choses à faire ou à corriger, merci de l'écrire ci-dessous de façon plus ou moins détaillée (pensez bien à enlever ce qui est fait et si vous voulez proposer une nouvelle idée de projet parallèle au site mettez le entre [ ]) :</b>
 
 Version mobile
 
